@@ -2,7 +2,7 @@
 事務職として働きながら、社内DXを推進しています。
 以下、ツール開発実績です。
 
-- [営業成績管理アプリ](https://github.com/house-dog./project-sales-app)
+- [営業成績管理アプリ](https://github.com/house-dog./project-sales-app/)
 - [LINE通知システム](https://github.com/house-dog./project-line-system)
 - [KPI管理ダッシュボード](https://github.com/house-dog./project-kpi-dashboard)
 
