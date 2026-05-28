@@ -4,7 +4,7 @@
 
 - [営業成績管理アプリ](https://house-dog.github.io/project-sales-app/)
 - [LINE通知システム]( https://house-dog.github.io/project-line-system/)
-- [KPI管理ダッシュボード](https://github.com/house-dog/project-kpi-dashboard)
+- [KPI管理ダッシュボード](https://house-dog.github.io/project-kpi-dashboard/)
 
 
 ## 開発実績
