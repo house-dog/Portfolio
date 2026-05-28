@@ -5,6 +5,7 @@
 - [営業成績管理アプリ](https://house-dog.github.io/project-sales-app/)
 - [KPI管理ダッシュボード](https://house-dog.github.io/project-kpi-dashboard/)
 - [家電見積りシミュレーター](https://house-dog.github.io/project-simulator/)
+- [休暇管理・申請システム]( https://house-dog.github.io/project-line-system/)
 - [LINE通知システム]( https://house-dog.github.io/project-line-system/)
 
 
@@ -51,7 +52,22 @@
 | **画面5** | **画面6** |
 | <img src="https://github.com/user-attachments/assets/afe8e1ff-bb72-41a1-b4e9-ac3e2aaf3829" width="250"> | <img src="https://github.com/user-attachments/assets/d24b6ff7-613d-42fd-b0e2-6e108fa3e5e5" width="250"> |
 
-### 4. LINE自動通知システム
+### 4. 休暇管理・申請システム
+- 概要：LINEや口頭、スプレッドシートで手動で管理されていた休暇申請・承認フローをWebアプリ化。申請者・承認者双方の工数を削減し、情報の透明化を実現。
+- 主な機能：カレンダーUIによる休暇取得状況のリアルタイム確認。申請内容の自動集計と、管理者へのLINE通知。
+- 使用技術：GAS, HTML/CSS/JavaScript, Google Sheets
+- 成果・工夫した点：  
+  ・事務作業の効率化：申請後のシート転記や集計作業を完全に自動化し、管理者の集計ミス・手間をゼロに。  
+  ・透明性の向上：チーム全体で誰がいつ休むかを共有しやすくし、業務の属人化を防ぐ環境を構築。  
+  ・ユーザビリティの追求：スマホからでも3タップで完了できるUIを採用。  
+
+| 画面1 | 画面2 |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/46e429c1-6f1d-4b0c-9cc0-26fdb89df1b1" width="250"> | <img src="https://github.com/user-attachments/assets/8b08227d-2360-4272-b34d-574ba9d96feb" width="250"> |
+| **画面3** |
+| <img src="https://github.com/user-attachments/assets/cac1c8cd-b93a-4551-b9f7-2da4018201c7" width="250">
+
+### 5. LINE自動通知システム
 - 概要：予約の問い合わせを自動で社内LINEへ通知。
 - 使用技術：GAS, LINE Messaging API, Googleフォーム
 - 成果：手動で文章を作成していた時間を削減。顧客情報やメニュー内容・料金などの誤入力を阻止。
