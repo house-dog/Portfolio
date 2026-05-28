@@ -3,9 +3,9 @@
 以下、ツール開発実績です。
 
 - [営業成績管理アプリ](https://house-dog.github.io/project-sales-app/)
-- [LINE通知システム]( https://house-dog.github.io/project-line-system/)
 - [KPI管理ダッシュボード](https://house-dog.github.io/project-kpi-dashboard/)
 - [家電見積りシミュレーター](https://house-dog.github.io/project-simulator/)
+- [LINE通知システム]( https://house-dog.github.io/project-line-system/)
 
 
 ## 開発実績
@@ -22,14 +22,7 @@
 | **画面5** | **画面6** |
 | <img src="https://github.com/user-attachments/assets/52d6cb09-f9f7-4d5e-b00c-8654463899bb" width="250"> | <img src="https://github.com/user-attachments/assets/f8a3f779-210c-4a1e-9b9c-ad04cc6dc47b" width="250"> |
 
-
-### 2. LINE自動通知システム
-- 概要：予約の問い合わせを自動で社内LINEへ通知。
-- 使用技術：GAS, LINE Messaging API, Googleフォーム
-- 成果：手動で文章を作成していた時間を削減。顧客情報やメニュー内容・料金などの誤入力を阻止。
-<img src="https://github.com/user-attachments/assets/e5dce9c3-5c3d-403b-a386-6d847ee179f5" style="width: 100%; max-width: 500px; border-radius: 8px;">
-
-### 3. KPI管理ダッシュボード
+### 2. KPI管理ダッシュボード
 - 概要：複雑な指標を直感的に把握するため、複数のスプレッドシートからデータを自動抽出し、リアルタイムで可視化するダッシュボードを開発。
 - 使用技術：GAS, HTML/CSS, Google Sheets API
 - 成果：工数削減： 手作業で行っていた週次レポート作成業務を自動化し、担当者の作業時間を月間10時間削減。
@@ -42,7 +35,7 @@
 | **個人別日報一覧** | **翌週目標入力欄** |
 | <img src="https://github.com/user-attachments/assets/2ba8c451-ff33-4d66-95f1-2422f2505705" width="200"> | <img src="https://github.com/user-attachments/assets/a4ae2394-2ca2-4456-a8d2-ac9329644234" width="200"> |
 
-### 4. 家電見積りシミュレーター
+### 3. 家電見積りシミュレーター
 - 概要：複雑な家電の組み合わせやオプション選択をWeb上で完結させ、その場で概算見積りを確認できるシミュレーター。
 - 使用技術：GAS, HTML/CSS, JavaScript
 - 成果・工夫した点：
@@ -57,3 +50,9 @@
 | <img src="https://github.com/user-attachments/assets/220543b6-8aa5-48c2-a7ba-229c16b45245" width="250"> | <img src="https://github.com/user-attachments/assets/a80335f9-a1fb-4829-becc-6ed69acfb137" width="250"> |
 | **画面5** | **画面6** |
 | <img src="https://github.com/user-attachments/assets/afe8e1ff-bb72-41a1-b4e9-ac3e2aaf3829" width="250"> | <img src="https://github.com/user-attachments/assets/d24b6ff7-613d-42fd-b0e2-6e108fa3e5e5" width="250"> |
+
+### 4. LINE自動通知システム
+- 概要：予約の問い合わせを自動で社内LINEへ通知。
+- 使用技術：GAS, LINE Messaging API, Googleフォーム
+- 成果：手動で文章を作成していた時間を削減。顧客情報やメニュー内容・料金などの誤入力を阻止。
+<img src="https://github.com/user-attachments/assets/e5dce9c3-5c3d-403b-a386-6d847ee179f5" style="width: 100%; max-width: 500px; border-radius: 8px;">
