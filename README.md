@@ -15,5 +15,7 @@
 <img src="https://github.com/user-attachments/assets/9ede4ab5-4368-4a9d-b211-eae01a53f041" style="width: 100%; max-width: 500px; border-radius: 8px;">
 
 ### 2. LINE自動通知システム
-- 概要：〇〇の問い合わせを自動で社内LINEへ通知。
-- 使用技術：GAS, LINE Messaging API
+- 概要：予約の問い合わせを自動で社内LINEへ通知。
+- 使用技術：GAS, LINE Messaging API, Googleフォーム
+- 成果：手動で文章を作成していた時間を削減。顧客情報やメニュー内容・料金などの誤入力を阻止。
+<img src="[https://github.com/user-attachments/assets/9ede4ab5-4368-4a9d-b211-eae01a53f041](https://github.com/user-attachments/assets/6af9965e-583f-48c5-bbdf-589597625ec2)" style="width: 100%; max-width: 500px; border-radius: 8px;">
