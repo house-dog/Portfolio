@@ -3,7 +3,7 @@
 以下、ツール開発実績です。
 
 - [営業成績管理アプリ](https://house-dog.github.io/project-sales-app/)
-- [LINE通知システム](https://github.com/house-dog/project-line-system)
+- [LINE通知システム]( https://house-dog.github.io/project-line-system/)
 - [KPI管理ダッシュボード](https://github.com/house-dog/project-kpi-dashboard)
 
 
