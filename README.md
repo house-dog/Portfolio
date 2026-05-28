@@ -13,7 +13,14 @@
 - 概要：営業成績をスプレッドシートではなくWebアプリで集計・管理。
 - 使用技術：GAS, Firebase, HTML/CSS
 - 成果：集計時間を月間10時間削減。リアルタイムで進捗可視化を実現。
-<img src="https://github.com/user-attachments/assets/9ede4ab5-4368-4a9d-b211-eae01a53f041" style="width: 100%; max-width: 500px; border-radius: 8px;">
+
+| 画面1 | 画面2 |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/5b3e3ee1-9e91-46e0-8c52-e1c018070fd1" width="250"> | <img src="https://github.com/user-attachments/assets/898c537a-0dab-44e8-8714-093751c60f2c" width="250"> |
+| **画面3** | **画面4** |
+| <img src="https://github.com/user-attachments/assets/ba8132ff-a026-4c80-a2b9-71a5ed772899" width="250"> | <img src="https://github.com/user-attachments/assets/a80335f9-a1fb-4829-becc-6ed69acfb137" width="250"> |
+| **画面5** | **画面6** |
+| <img src="https://github.com/user-attachments/assets/5d262bb0-ffaa-43e4-b746-e95e1bcd6ea7" width="250"> | <img src="https://github.com/user-attachments/assets/52d6cb09-f9f7-4d5e-b00c-8654463899bb" width="250"> |
 
 ### 2. LINE自動通知システム
 - 概要：予約の問い合わせを自動で社内LINEへ通知。
