@@ -19,8 +19,9 @@
 | <img src="https://github.com/user-attachments/assets/5b3e3ee1-9e91-46e0-8c52-e1c018070fd1" width="250"> | <img src="https://github.com/user-attachments/assets/898c537a-0dab-44e8-8714-093751c60f2c" width="250"> |
 | **画面3** | **画面4** |
 | <img src="https://github.com/user-attachments/assets/ba8132ff-a026-4c80-a2b9-71a5ed772899" width="250"> | <img src="https://github.com/user-attachments/assets/5d262bb0-ffaa-43e4-b746-e95e1bcd6ea7" width="250"> |
-| **画面5** |
-| <img src="https://github.com/user-attachments/assets/52d6cb09-f9f7-4d5e-b00c-8654463899bb" width="250">
+| **画面5** | **画面6** |
+| <img src="https://github.com/user-attachments/assets/52d6cb09-f9f7-4d5e-b00c-8654463899bb" width="250"> | <img src="https://github.com/user-attachments/assets/f8a3f779-210c-4a1e-9b9c-ad04cc6dc47b" width="250"> |
+
 
 ### 2. LINE自動通知システム
 - 概要：予約の問い合わせを自動で社内LINEへ通知。
