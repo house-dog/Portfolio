@@ -19,3 +19,4 @@
 - 使用技術：GAS, LINE Messaging API, Googleフォーム
 - 成果：手動で文章を作成していた時間を削減。顧客情報やメニュー内容・料金などの誤入力を阻止。
 <img src="https://github.com/user-attachments/assets/e5dce9c3-5c3d-403b-a386-6d847ee179f5" style="width: 100%; max-width: 500px; border-radius: 8px;">
+<img width="1414" height="2000" alt="例2" src="https://github.com/user-attachments/assets/46ddfd44-1a87-4e57-8479-92267efee758" />
