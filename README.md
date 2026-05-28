@@ -5,8 +5,8 @@
 - [営業成績管理アプリ](https://house-dog.github.io/project-sales-app/)
 - [KPI管理ダッシュボード](https://house-dog.github.io/project-kpi-dashboard/)
 - [家電見積りシミュレーター](https://house-dog.github.io/project-simulator/)
-- [休暇管理・申請システム]( https://house-dog.github.io/project-line-system/)
-- [LINE通知システム]( https://house-dog.github.io/project-line-system/)
+- [休暇管理・申請システム](https://house-dog.github.io/Leave-Management-System/)
+- [LINE通知システム](https://house-dog.github.io/project-line-system/)
 
 
 ## 開発実績
