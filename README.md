@@ -27,10 +27,12 @@
 - 成果：工数削減： 手作業で行っていた週次レポート作成業務を自動化し、担当者の作業時間を月間10時間削減。
 - 即時性の向上： 月次更新だった指標をリアルタイム更新に変更し、経営判断のスピードアップに貢献。
 - UI/UX： 非エンジニアでも直感的に操作できるよう、ダッシュボードの配色とレイアウトを簡素化。
-<img src="https://github.com/user-attachments/assets/62b87f45-c3d4-45ca-a123-f33bad08d961" style="width: 100%; max-width: 500px; border-radius: 8px;">
-<img src="https://github.com/user-attachments/assets/68d63b16-91ba-4835-bb62-c63574e0c074" style="width: 100%; max-width: 500px; border-radius: 8px;">
-<img src="https://github.com/user-attachments/assets/2ba8c451-ff33-4d66-95f1-2422f2505705" style="width: 100%; max-width: 500px; border-radius: 8px;">
-<img src="https://github.com/user-attachments/assets/a4ae2394-2ca2-4456-a8d2-ac9329644234" style="width: 100%; max-width: 500px; border-radius: 8px;">
+
+| 月次表示 | 自由入力欄 |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/62b87f45-c3d4-45ca-a123-f33bad08d961" width="200"> | <img src="https://github.com/user-attachments/assets/68d63b16-91ba-4835-bb62-c63574e0c074" width="200"> |
+| **個人別日報一覧** | **翌週目標入力欄** |
+| <img src="https://github.com/user-attachments/assets/2ba8c451-ff33-4d66-95f1-2422f2505705" width="200"> | <img src="https://github.com/user-attachments/assets/a4ae2394-2ca2-4456-a8d2-ac9329644234" width="200"> |
 
 ### 4. 家電見積りシミュレーター
 - 概要：複雑な家電の組み合わせやオプション選択をWeb上で完結させ、その場で概算見積りを確認できるシミュレーター。
